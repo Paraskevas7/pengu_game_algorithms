@@ -1,0 +1,7 @@
+{
+  "appId": "com.yourname.pengurithm",
+  "appName": "CS Penguins",
+  "webDir": "www",
+  "backgroundColor": "#0b1d33",
+  "ios": { "contentInset": "never" }
+}
